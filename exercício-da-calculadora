@@ -1,0 +1,29 @@
+function pao(){
+    console.log("5x2="+2*5);
+    console.log("5x4="+4*5);
+    console.log("5x6="+6*5);
+    console.log("5x8="+8*5);
+    console.log("5x10="+10*5);
+}
+
+function bret(){
+    console.log("5/2="+2/5);
+    console.log("5/4="+4/5);
+    console.log("5/6="+6/5);
+    console.log("5/8="+8/5);
+    console.log("5/10="+10/5);
+}
+function carambolas(){
+    console.log("5+2=",2+5);
+    console.log("5+4=",4+5);
+    console.log("5+6=",6+5);
+    console.log("5+8=",8+5);
+    console.log("5+10=",10+5);
+}
+
+carambolas() 
+function it_final(){
+    if(8=5){
+        
+    }
+}
