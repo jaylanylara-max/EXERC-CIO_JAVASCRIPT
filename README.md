@@ -1,6 +1,5 @@
 # TRabalho da lara; CALCULADORA
-## 🚀tecnologias usadas; HTML 
-CSS E A LINGUAGEM JAVASCRIPT
+## 🚀tecnologias usadas; HTML, CSS E A LINGUAGEM JAVASCRIPT!!
 ### 💻 Projeto: CALCULADORA 2026
 serve para aprender a como usar os operadores; +, /, *
 e por fim o vscode da o resutado 
