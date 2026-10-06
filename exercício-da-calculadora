@@ -20,10 +20,22 @@ function carambolas(){
     console.log("5+8=",8+5);
     console.log("5+10=",10+5);
 }
-
-carambolas() 
-function it_final(){
-    if(8=5){
-        
-    }
+function menu(){
+    console.log("1. multiplicação")
+    console.log("2.soma")
+    console.log("3.divisão")
+}
+menu()
+let n = prompt("digite uma opcão")
+if(n === 1){
+    pao()
+}
+if(n === 2){
+    bret()
+}
+if(n === 3){
+    carambolas()
+}
+else{
+    console.log("error no servidor")
 }
